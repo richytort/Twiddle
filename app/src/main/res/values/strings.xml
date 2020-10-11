@@ -9,4 +9,9 @@
     <string name="enter_name">Enter Name</string>
     <string name="confirmed_password">Confirm Password</string>
     <string name="signup">Sign Up</string>
+    <string name="enter_correct_email">Enter Correct Email</string>
+    <string name="password_mismatch">Password does not match</string>
+    <string name="profile_was_created_successfully">Profile was created Successfully!</string>
+    <string name="signup_unsuccessful">Signup Unsuccessful : %1$s</string>
+    <string name="no_account">No Account?</string>
 </resources>
