@@ -6,4 +6,7 @@
     <string name="login">Login</string>
     <string name="reset_password">Reset Password</string>
     <string name="reset_password">Reset Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="confirmed_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
 </resources>
