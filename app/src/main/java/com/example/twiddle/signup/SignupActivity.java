@@ -38,20 +38,21 @@ public class SignupActivity extends AppCompatActivity {
         email= etEmail.getText().toString().trim();
         name = etName.getText().toString().trim();
         password= etPassword.getText().toString().trim();
+        confirmPassword= etConfirmPassword.getText().toString().trim();
 
         if(email.equals("")){
             etEmail.setError(getString(R.string.enter_email));
         }
-        else if (name.equals("")){
+        else if(name.equals("")){
             etName.setError(getString(R.string.enter_name));
         }
-        else if(etPassword.equals("")){
+        else if(password.equals("")){
             etPassword.setError(getString(R.string.enter_password));
         }
         else if(confirmPassword.equals("")){
-            etConfirmPassword.setError(getString(R.string.confirmed_password));
+            etConfirmPassword.setError(getString(R.string.confirm_password));
         }
-        else if(Patterns.EMAIL_ADDRESS.matcher(email).matches()){
+        else if(!Patterns.EMAIL_ADDRESS.matcher(email).matches()){
             etEmail.setError(getString(R.string.enter_correct_email));
         }
         else if(!password.equals(confirmPassword)){

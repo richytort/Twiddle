@@ -86,7 +86,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:hint="@string/confirmed_password" />
+                    android:hint="@string/confirm_password" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <Button

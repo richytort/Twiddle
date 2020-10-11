@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912340949089",
+    "firebase_url": "https://twiddle-79e35.firebaseio.com",
+    "project_id": "twiddle-79e35",
+    "storage_bucket": "twiddle-79e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912340949089:android:745084e246e9eb165f3220",
+        "android_client_info": {
+          "package_name": "com.example.twiddle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912340949089-4qok23le915048hrad2tsp97rulr5dtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twiddle",
+            "certificate_hash": "f27dfa7de27ad49cd14c999aa6df885d5b8a7feb"
+          }
+        },
+        {
+          "client_id": "912340949089-8fkls6ohjm1qen9bdlhnuqah1tdf3q9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYXv_oAK_FqAtSaVmGoTN3QY1T14q4z9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912340949089-8fkls6ohjm1qen9bdlhnuqah1tdf3q9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
