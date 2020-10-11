@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Twiddle</string>
+    <string name="enter_email">Enter Email</string>
 </resources>
